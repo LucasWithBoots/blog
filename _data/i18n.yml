@@ -68,3 +68,19 @@ fr:
   archive-category: "Archives de la catégorie '%1'"
   archive-tag: "Archives du tag '%1'"
   comments: "Commentaires"
+pt:
+  date:
+    format: "%-d/%m/%Y" # Formato brasileiro comum: dia/mês/ano
+    abbr_day_names: ["Dom", "Seg", "Ter", "Qua", "Qui", "Sex", "Sáb"]
+    abbr_month_names: ["Jan", "Fev", "Mar", "Abr", "Mai", "Jun",
+      "Jul", "Ago", "Set", "Out", "Nov", "Dez"]
+    day_names: ["Domingo", "Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira", "Sábado"]
+    month_names: ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho",
+      "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"]
+  morelink: "Continue lendo"
+  page-older: "Mais antigos"
+  page-newer: "Mais recentes"
+  archive: "Arquivo do blog"
+  archive-category: "Arquivo da categoria '%1'"
+  archive-tag: "Arquivo da tag '%1'"
+  comments: "Comentários"
