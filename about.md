@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-This is the whiteglass theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Sou estudante de Ciência da Computação na [Universidade Federal de Alfenas][UNIFAL], com experiência em desenvolvimento web e mobile. Atualmente trabalho com React Native na Polygon Soluções Computacionais, contribuindo para o desenvolvimento de um app multiplataforma focado em bem-estar.
 
-You can find the source code for whiteglass at GitHub:
-[yous](https://github.com/yous) /
-[whiteglass](https://github.com/yous/whiteglass)
+Tenho passagem por outras experiências como estagiário, trabalhando com PHP, jQuery, AJAX, análise de requisitos e prototipação (esse último é o meu preferido).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Embora eu me considere um desenvolvedor mobile, reconheço que ainda há muito a aprender, especialmente na área de desenvolvimento cross-plataforma, que é onde quero continuar me especializando. Atualmente estou explorando Flutter, e apesar de ter sentido certa dificuldade no início, por estar acostumado com a sintaxe e a flexibilidade do React, tenho gostado bastante da experiência =).
 
-
-[jekyll-organization]: https://github.com/jekyll
+[UNIFAL]: https://www.unifal-mg.edu.br/portal/index/
